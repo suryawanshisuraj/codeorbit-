@@ -3,7 +3,7 @@ export const fetchQuiz = async () => {
     import.meta.env.VITE_BACKEND_URL ||
     (import.meta.env.MODE === "development"
       ? "http://localhost:5000"
-      : "https://bruhdive-an-online-quiz-platform.onrender.com");
+      : "https://codeorbitquiz1.vercel.app");
 
   const url = `${BASE_URL}/api/quiz`;
   console.log(`🔗 Requesting URL: ${url}`);

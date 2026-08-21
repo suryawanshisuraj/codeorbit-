@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 });
 
 const allowedOrigins = [
-  "https://bruhdive.netlify.app",
+  "https://codeorbitquiz1.vercel.app",
   "http://localhost:5173",
   "http://127.0.0.1:5173",
   "http://localhost:3000",

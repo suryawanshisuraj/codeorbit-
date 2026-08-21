@@ -237,7 +237,7 @@ function QuizPage() {
         import.meta.env.VITE_BACKEND_URL ||
         (import.meta.env.MODE === "development"
           ? "http://localhost:5000"
-          : "https://bruhdive-an-online-quiz-platform.onrender.com");
+          : "https://codeorbitquiz1.vercel.app");
 
       const response = await fetch(
         `${backendUrl}/api/career-recommendations`,
