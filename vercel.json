@@ -1,27 +1,10 @@
 {
-    "services": {
-        "frontend": {
-            "root": ".",
-            "framework": "vite"
-        },
-        "backend": {
-            "root": "backend"
-        }
-    },
-    "rewrites": [
-        {
-            "source": "/api(/.*)?",
-            "destination": {
-                "type": "service",
-                "service": "backend"
-            }
-        },
-        {
-            "source": "/(.*)",
-            "destination": {
-                "type": "service",
-                "service": "frontend"
-            }
-        }
-    ]
+  "buildCommand": "cd BruhDive-An-online-quiz-platform-main/frontend && npm install && npm run build",
+  "outputDirectory": "BruhDive-An-online-quiz-platform-main/frontend/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
