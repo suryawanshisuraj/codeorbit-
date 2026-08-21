@@ -1,0 +1,178 @@
+```
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": ["A) Hyper Text Markup Language", "B) Hyperlinks and Text Markup Language", "C) Home Tool Markup Language", "D) Hypertext Machine Language"],
+    "answer": "A",
+    "explanation": "HTML is the standard markup language for Web pages. It defines the structure of web content using a series of elements that label content parts.",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main purpose of a firewall in a network?",
+    "options": ["A) To connect to the internet", "B) To block unauthorized access", "C) To speed up network traffic", "D) To store network data"],
+    "answer": "B",
+    "explanation": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+    "domain": "Cybersecurity",
+    "difficulty": "Easy",
+    "skill_type": "Security"
+  },
+  {
+    "question": "What is the difference between a monolithic architecture and a microservices architecture?",
+    "options": ["A) Monolithic is more scalable", "B) Microservices is more complex", "C) Monolithic is more modular", "D) Microservices is more monolithic"],
+    "answer": "B",
+    "explanation": "Monolithic architecture is a single, self-contained unit, whereas microservices architecture is a collection of small, independent services that communicate with each other.",
+    "domain": "Software Engineering",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a load balancer in a cloud environment?",
+    "options": ["A) To increase the number of servers", "B) To distribute incoming traffic", "C) To reduce latency", "D) To improve security"],
+    "answer": "B",
+    "explanation": "A load balancer is a device or software that distributes incoming traffic across multiple servers to improve responsiveness, reliability, and scalability.",
+    "domain": "DevOps / Cloud",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the difference between a hash table and a linked list?",
+    "options": ["A) Hash table is faster", "B) Linked list is more memory-efficient", "C) Hash table is more scalable", "D) Linked list is more flexible"],
+    "answer": "A",
+    "explanation": "Hash tables are faster because they use a hash function to map keys to values, whereas linked lists are slower because they rely on sequential access.",
+    "domain": "Data Structures & Algorithms",
+    "difficulty": "Hard",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a data scientist in an organization?",
+    "options": ["A) To design databases", "B) To analyze and interpret complex data", "C) To develop machine learning models", "D) To manage data storage"],
+    "answer": "B",
+    "explanation": "A data scientist is responsible for analyzing and interpreting complex data to gain insights and make informed business decisions.",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the difference between a GET and a POST request in HTTP?",
+    "options": ["A) GET is for reading data", "B) POST is for writing data", "C) GET is for updating data", "D) POST is for deleting data"],
+    "answer": "A",
+    "explanation": "GET requests are used to retrieve data from a server, while POST requests are used to send data to a server for processing.",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a reverse proxy server?",
+    "options": ["A) To cache frequently accessed content", "B) To hide the IP address of the server", "C) To improve security", "D) To increase scalability"],
+    "answer": "B",
+    "explanation": "A reverse proxy server sits between a client and a server, hiding the IP address of the server and providing an additional layer of security and scalability.",
+    "domain": "DevOps / Cloud",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main purpose of a Linux distribution?",
+    "options": ["A) To provide a specific set of software", "B) To provide a specific set of hardware", "C) To provide a specific set of configuration options", "D) To provide a specific set of documentation"],
+    "answer": "A",
+    "explanation": "A Linux distribution is a collection of software packages and tools that provide a specific set of features and functionality.",
+    "domain": "Software Engineering",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a CI/CD pipeline?",
+    "options": ["A) To automate testing", "B) To automate deployment", "C) To automate both testing and deployment", "D) To automate neither testing nor deployment"],
+    "answer": "C",
+    "explanation": "A CI/CD pipeline automates both testing and deployment, allowing for faster and more reliable software releases.",
+    "domain": "DevOps / Cloud",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main difference between a relational database and a NoSQL database?",
+    "options": ["A) Relational databases are more scalable", "B) NoSQL databases are more flexible", "C) Relational databases are more complex", "D) NoSQL databases are more relational"],
+    "answer": "B",
+    "explanation": "NoSQL databases are more flexible and adaptable to different data models, whereas relational databases are more structured and rigid.",
+    "domain": "Database Systems",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a machine learning model?",
+    "options": ["A) To make predictions", "B) To classify data", "C) To cluster data", "D) To all of the above"],
+    "answer": "D",
+    "explanation": "Machine learning models can be used for a variety of tasks, including making predictions, classifying data, and clustering data.",
+    "domain": "Machine Learning / AI",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main purpose of a containerization platform?",
+    "options": ["A) To virtualize hardware", "B) To package software", "C) To manage infrastructure", "D) To automate deployment"],
+    "answer": "B",
+    "explanation": "Containerization platforms package software and its dependencies into a single container, allowing for easy deployment and management.",
+    "domain": "DevOps / Cloud",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a security token in a web application?",
+    "options": ["A) To authenticate users", "B) To authorize access", "C) To encrypt data", "D) To authenticate and authorize"],
+    "answer": "D",
+    "explanation": "A security token is used to authenticate and authorize users in a web application, providing a secure way to verify user identity and access permissions.",
+    "domain": "Cybersecurity",
+    "difficulty": "Medium",
+    "skill_type": "Security"
+  },
+  {
+    "question": "What is the main difference between a monorepo and a multi-repo?",
+    "options": ["A) Monorepo is more scalable", "B) Multi-repo is more flexible", "C) Monorepo is more complex", "D) Multi-repo is more monolithic"],
+    "answer": "B",
+    "explanation": "A monorepo is a single repository that contains all the code for a project, whereas a multi-repo is a collection of separate repositories, each containing a portion of the project code.",
+    "domain": "Software Engineering",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a code review?",
+    "options": ["A) To improve code quality", "B) To reduce bugs", "C) To increase code speed", "D) To improve code maintainability"],
+    "answer": "D",
+    "explanation": "Code reviews are an essential part of the development process, as they help improve code quality, maintainability, and overall software quality.",
+    "domain": "Software Engineering",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main purpose of a caching layer in a web application?",
+    "options": ["A) To improve scalability", "B) To improve performance", "C) To improve security", "D) To improve reliability"],
+    "answer": "B",
+    "explanation": "A caching layer improves performance by storing frequently accessed data in memory, reducing the need for database queries and improving response times.",
+    "domain": "Web Development",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the purpose of a data visualization tool?",
+    "options": ["A) To improve data quality", "B) To improve data analysis", "C) To improve data presentation", "D) To improve data storage"],
+    "answer": "C",
+    "explanation": "Data visualization tools help improve data presentation by converting complex data into easy-to-understand visual representations, making it easier to analyze and understand.",
+    "domain": "Data Science",
+    "difficulty": "Easy",
+    "skill_type": "Theory"
+  },
+  {
+    "question": "What is the main difference between a service-oriented architecture and a microservices architecture?",
+    "options": ["A) Service-oriented architecture is more scalable", "B) Microservices architecture is more modular", "C) Service-oriented architecture is more complex", "D) Microservices architecture is more monolithic"],
+    "answer": "B",
+    "explanation": "Microservices architecture is more modular, as it breaks down an application into a collection of small, independent services that communicate with each other.",
+    "domain": "Software Engineering",
+    "difficulty": "Medium",
+    "skill_type": "Theory"
+  }
+]```
+
+
+
+Please note that the difficulty level and skill type tags are subjective and may vary based on individual perspectives. It's essential to ensure that the questions are accurate, relevant, and challenging for the target audience. If you need any further modifications or have specific requirements, please let me know.
