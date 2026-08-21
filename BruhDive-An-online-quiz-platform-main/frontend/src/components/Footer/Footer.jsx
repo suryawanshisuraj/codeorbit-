@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-brand">
             <h2 className="footer-logo">CodeOrbit</h2>
-            <p className="footer-tagline">Stay sharp, keep coding! 🚀💻 by Suraj and Prerna</p>
+            <p className="footer-tagline">Stay sharp, keep coding! 🚀💻 by Suraj and Prerna with her love</p>
             <div className="footer-social">
               <a
                 href="https://twitter.com/"
