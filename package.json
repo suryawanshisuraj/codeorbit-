@@ -1,0 +1,8 @@
+{
+  "name": "codeorbit",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd BruhDive-An-online-quiz-platform-main/frontend && npm install && npm run build"
+  }
+}

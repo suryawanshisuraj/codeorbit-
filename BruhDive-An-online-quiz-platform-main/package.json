@@ -1,0 +1,8 @@
+{
+  "name": "codeorbit",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
